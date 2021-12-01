@@ -1,1 +1,1 @@
-# Accenture--FUTURE-INNOVATOR-IN-TRAINING
+The Repo contains Projects related to Bioinformatics. Datasets excluded.
